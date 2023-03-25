@@ -1,0 +1,11 @@
+C:\Users\da96n\source\repos\SpreadsheetApp\SpreadsheetApp\obj\Debug\SpreadsheetApp.csproj.AssemblyReference.cache
+C:\Users\da96n\source\repos\SpreadsheetApp\SpreadsheetApp\obj\Debug\SpreadsheetApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\da96n\source\repos\SpreadsheetApp\SpreadsheetApp\obj\Debug\SpreadsheetApp.Form1.resources
+C:\Users\da96n\source\repos\SpreadsheetApp\SpreadsheetApp\obj\Debug\SpreadsheetApp.Properties.Resources.resources
+C:\Users\da96n\source\repos\SpreadsheetApp\SpreadsheetApp\obj\Debug\SpreadsheetApp.csproj.GenerateResource.cache
+C:\Users\da96n\source\repos\SpreadsheetApp\SpreadsheetApp\obj\Debug\SpreadsheetApp.csproj.CoreCompileInputs.cache
+C:\Users\da96n\source\repos\SpreadsheetApp\SpreadsheetApp\bin\Debug\SpreadsheetApp.exe.config
+C:\Users\da96n\source\repos\SpreadsheetApp\SpreadsheetApp\bin\Debug\SpreadsheetApp.exe
+C:\Users\da96n\source\repos\SpreadsheetApp\SpreadsheetApp\bin\Debug\SpreadsheetApp.pdb
+C:\Users\da96n\source\repos\SpreadsheetApp\SpreadsheetApp\obj\Debug\SpreadsheetApp.exe
+C:\Users\da96n\source\repos\SpreadsheetApp\SpreadsheetApp\obj\Debug\SpreadsheetApp.pdb
